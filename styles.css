@@ -6,7 +6,7 @@ body {
 }
 
 .Card {
-    background-color: aqua;
+    background-color: rgb(204, 0, 255);
     color: black;
     padding: 20px;
     margin: 20px;
@@ -27,7 +27,7 @@ nav a {
 }
 
 nav a:hover {
-    color: aqua;
+    color: rgb(60, 0, 255);
 }
 
 main {
@@ -48,12 +48,12 @@ h1 {
 }
 
 .card {
-    background-color: aqua;
+    background-color: rgb(242, 0, 255);
     color: black;
     width: 250px;
     padding: 25px;
     margin: 10px;
-    border: 2px dashed rgb(194, 36, 36);
+    border: 2px dashed rgb(194, 36, 191);
     border-radius: 10px;
     text-align: center;
 }
@@ -104,7 +104,7 @@ form {
     color: black;
     padding: 30px;
     margin: 30px auto;
-    border: 2px solid aqua;
+    border: 2px solid rgb(255, 0, 251);
     width: 400px;
     max-width: 80%;
 }
